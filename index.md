@@ -172,4 +172,5 @@ Original Boop Box client was written in TypeScript
 ## Questions?
 
 ![Bloop Box QR Code](images/qr-code.png) <!-- .element: height="300" -->
+<br />github.com/bloop-box
 
