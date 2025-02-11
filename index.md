@@ -46,7 +46,7 @@ Note:
 <!-- .slide: data-background-image="images/schematic-mainboard.jpg" -->
 <!-- .slide: data-background-opacity="0.2" -->
 
-Mainboard - connects everything
+## Mainboard - connects everything
 
 - Raspberry Pi Zero 2 W
 - Tailboard for power, volume buttons and status LEDs
@@ -63,7 +63,7 @@ I2S = Inter-Integrated Circuit Sound
 <!-- .slide: data-background-image="images/schematic-tailboard.jpg" -->
 <!-- .slide: data-background-opacity="0.2" -->
 
-Tailboard
+## Tailboard
 
 - USB-C port for power (5V only, no PD)
 - Buttons
@@ -81,7 +81,8 @@ Different versions of tailboard developed, decided to keep it simple in the end
 <!-- .slide: data-background-image="images/schematic-led-board.jpg" -->
 <!-- .slide: data-background-opacity="0.2" -->
 
-LED-Board
+## LED-Board
+
 - AW2013 I2C LED Controller
 - Standard RGB LED
 
@@ -93,7 +94,7 @@ Note:
 <!-- .slide: data-background-image="images/card-reader.jpg" -->
 <!-- .slide: data-background-opacity="0.2" -->
 
-NFC Scanner for Registration
+## NFC Scanner for Registration
 
 Note:
 - developed for registration/checkin
@@ -107,7 +108,7 @@ Note:
 <!-- .slide: data-background-image="images/schematic-card-reader-1.jpg" -->
 <!-- .slide: data-background-opacity="0.2" -->
 
-NFC Scanner for Registration
+## NFC Scanner for Registration
 
 - based on RP2040 Microcontroller
 - same NFC Module as used in the Blips and Boops
@@ -121,7 +122,7 @@ NFC Scanner for Registration
 <!-- .slide: data-background-image="images/schematic-card-reader-2.jpg" -->
 <!-- .slide: data-background-opacity="0.2" -->
 
-NFC Scanner CPU
+## NFC Scanner CPU
 
 Simplified version of a Raspberry Pi Pico
 - simple LDO instead of Buck/Boost
