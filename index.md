@@ -1,3 +1,6 @@
+<!-- .slide: data-background-image="images/title.jpg" -->
+<!-- .slide: data-background-opacity="0.4" -->
+
 ## The Hard- and Software of Blips and Boops
 
 ---
